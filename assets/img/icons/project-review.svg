@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 511 511" style="enable-background:new 0 0 511 511;" xml:space="preserve" width="300" height="300" xmlns:svgjs="http://svgjs.dev/svgjs"><g width="100%" height="100%" transform="matrix(1,0,0,1,0,0)"><g>
+	<g>
+		<polygon style="" points="399.5,37.5 399.5,22.5 369.5,22.5 369.5,7.5 39.5,7.5 39.5,503.5 429.5,503.5 429.5,37.5 &#10;&#9;&#9;&#9;&#9;&#9;" fill="#9dbfff" fill-opacity="1" data-original-color="#ffffffff" stroke="none" stroke-opacity="1"/>
+		<path style="" d="M314.221,240.968l148.492,148.492c11.716,11.716,11.716,30.711,0,42.426l0,0&#10;&#9;&#9;&#9;c-11.716,11.716-30.711,11.716-42.426,0L271.794,283.394L314.221,240.968z" fill="#9dbfff" fill-opacity="1" data-original-color="#ffffffff" stroke="none" stroke-opacity="1"/>
+		<circle style="" cx="205.326" cy="174.5" r="130" fill="#9dbfff" fill-opacity="1" data-original-color="#ffffffff" stroke="none" stroke-opacity="1"/>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="205.3264" y1="74.5469" x2="205.3264" y2="274.4532"><stop stop-opacity="1" stop-color="#ffd042" offset="0"/><stop stop-opacity="1" stop-color="#ff9b25" offset="1"/></linearGradient>
+		<circle style="" cx="205.326" cy="174.5" r="100" fill="url(#SVGID_1_)" data-original-color="SVGID_1_" stroke="none" stroke-opacity="1"/>
+		<polygon style="" points="205.5,111.5 224.041,149.026 265.5,155.044 235.5,184.254 242.582,225.5 205.5,206.026 &#10;&#9;&#9;&#9;168.418,225.5 175.5,184.254 145.5,155.044 186.959,149.026 &#9;&#9;" fill="#9dbfff" fill-opacity="1" data-original-color="#ffffffff" stroke="none" stroke-opacity="1"/>
+	</g>
+	
+		<linearGradient id="SVGID_00000142869889056065681240000016421471421482824576_" gradientUnits="userSpaceOnUse" x1="255.5" y1="0" x2="255.5" y2="511">
+		<stop offset="0" style="" stop-color="rgb(0, 78, 166)"/>
+		<stop offset="1" style="" stop-color="rgb(202, 66, 178)"/>
+	</linearGradient>
+	
+		<path style="stroke-miterlimit: 10;" d="&#10;&#9;&#9;M205.5,111.5l18.541,37.526l41.459,6.018l-30,29.21l7.082,41.246L205.5,206.026L168.418,225.5l7.082-41.246l-30-29.21l41.459-6.018&#10;&#9;&#9;L205.5,111.5z M369.5,296.25V22.5v-15h-330v496h330V381.1 M369.5,503.5h30v-92.4 M399.5,326.25V37.5v-15h-30 M399.5,503.5h30&#10;&#9;&#9;v-65.34 M429.5,356.25V37.5h-30 M338.5,353.5h-268 M338.5,383.5h-268 M338.5,413.5h-268 M230.5,443.5h-160 M113.403,82.576&#10;&#9;&#9;c-50.768,50.768-50.768,133.08,0,183.848s133.08,50.768,183.848,0s50.768-133.08,0-183.848S164.171,31.808,113.403,82.576z&#10;&#9;&#9; M276.037,103.789c-38.99-38.99-102.431-38.99-141.421,0s-38.99,102.431,0,141.421s102.431,38.99,141.421,0&#10;&#9;&#9;S315.027,142.779,276.037,103.789z M271.794,283.394l148.492,148.492c11.716,11.716,30.711,11.716,42.426,0l0,0&#10;&#9;&#9;c11.716-11.716,11.716-30.711,0-42.426L314.221,240.968 M300.079,311.679l42.426-42.426" fill="none" fill-opacity="1" stroke="#000000ff" stroke-opacity="1" data-original-stroke-color="#000000ff" stroke-width="20" data-original-stroke-width="15"/>
+</g></g></svg>
